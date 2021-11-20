@@ -1,3 +1,3 @@
 # hello-world
 
-Sorry, no time to chat right now.
+Sorry, still no time to chat right now.
